@@ -1,1 +1,1 @@
-O projeto consiste em um gestor de bebê que permite o usúario a armazenar as fraldas trocadas, o tempo de sono e a alimentação de seu bebê. Com isso ajudando os pais a registrarem o crescimento e o desenvolvimento do bebê.
+O projeto consiste em um app gestor de bebê que permite o usúario a armazenar as fraldas trocadas, o tempo de sono e a alimentação de seu bebê. Com isso ajudando os pais a registrarem o crescimento e o desenvolvimento do bebê.
